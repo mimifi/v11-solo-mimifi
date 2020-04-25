@@ -5,7 +5,7 @@ Voyage-11 | https://chingu.io/ | Twitter: https://twitter.com/ChinguCollabs
 # TodoWebApp
 
 This is an application, which helps travelers to create a ToDo list for their trips.
-Deployed version of the project on Firebase Hosting: https://travel-todo-17fe8.web.app/homepage
+Deployed version of the project on Firebase Hosting: https://travel-todo-17fe8.firebaseapp.com/homepage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
